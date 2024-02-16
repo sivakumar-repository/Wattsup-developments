@@ -1,0 +1,13 @@
+THIS IS WHATSUP CODE 
+
+Author: Sivakumar
+
+1.profile page code
+
+2.char screen code
+
+3.last screen code
+
+4.Attachements(audio,video,image)code
+
+5.Hiding the last seen 
