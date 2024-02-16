@@ -10,4 +10,6 @@ Author: Sivakumar
 
 4.Attachements(audio,video,image)code
 
-5.Hiding the last seen 
+5.Hiding the last seen
+
+6. add video and audio calls 
